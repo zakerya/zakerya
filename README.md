@@ -9,4 +9,32 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakerya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+<div align="center">
+  <svg width="800" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient">
+        <stop offset="0%" stop-color="#6a00ff">
+          <animate attributeName="stop-color" values="#6a00ff; #00b7eb; #00ffcc; #6a00ff" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#00b7eb">
+          <animate attributeName="stop-color" values="#00b7eb; #00ffcc; #6a00ff; #00b7eb" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+      <filter id="neon-glow">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+        <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 1  0 0 0 0.8 0" result="glow" />
+        <feMerge>
+          <feMergeNode in="glow" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Roboto, sans-serif" font-weight="100" font-size="65"
+          fill="url(#gradient)" filter="url(#neon-glow)">
+      Happy Coding!
+    </text>
+  </svg>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
