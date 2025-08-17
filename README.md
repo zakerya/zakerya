@@ -9,10 +9,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakerya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-<p align="center">
-  <a href="https://zakerya.github.io/zakerya/" target="_blank" rel="noopener">
-    HAPPY CODING!
-  </a>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
