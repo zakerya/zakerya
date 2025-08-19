@@ -28,11 +28,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zakerya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)  
 
-<br/><br/>  
+<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=zakerya&theme=tokyonight&hide_border=false)  
 
-<br/><br/>  
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakerya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
